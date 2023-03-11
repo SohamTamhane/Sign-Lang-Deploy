@@ -1,10 +1,10 @@
 import streamlit as st
-import mediapipe as mp
 import cv2
 import numpy as np
 import tempfile
 import time
 from PIL import Image
+import mediapipe as mp
 
 import os
 from matplotlib import pyplot as plt
